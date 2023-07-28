@@ -76,9 +76,8 @@ margin: auto;
 }
 .base {
   position:relative;
-  bottom: 8px;
   width: 100%;
   height: auto;
-  margin-bottom: 0;
+  margin-bottom: 8px;
 }
 
